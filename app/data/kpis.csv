@@ -1,0 +1,2 @@
+total_sales,avg_inventory_per_sku,stockout_risk_pct,avg_lead_time_days,avg_delivery_time_days
+1250000,340,7.5,8.2,3.6

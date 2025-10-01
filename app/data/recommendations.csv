@@ -1,0 +1,4 @@
+sku,current_stock,reorder_point,recommended_order_qty,supplier,transport_mode,lead_time_days,urgency
+SKU-001,220,300,150,SUP-A,Air,5,High
+SKU-002,500,400,0,SUP-B,Road,7,Low
+SKU-003,120,200,100,SUP-C,Sea,18,Medium
