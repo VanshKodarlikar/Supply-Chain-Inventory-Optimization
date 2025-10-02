@@ -2,6 +2,7 @@
 This project is a data-driven system designed to help FMCG companies optimize their sales, inventory, procurement, and logistics.
 It combines EDA, KPI analysis, forecasting, and recommendations with an interactive dashboard for decision-making.
 
+
 🚀 Features
 
 📌 KPI Dashboard – Track sales, inventory levels, supplier lead times, and logistics efficiency
@@ -14,6 +15,7 @@ It combines EDA, KPI analysis, forecasting, and recommendations with an interact
 
 🎨 Interactive UI – Streamlit-based dashboard with charts, filters, and CSV download/upload
 
+
 🛠️ Tech Stack
 
 Python: pandas, numpy, matplotlib, seaborn
@@ -24,6 +26,7 @@ Visualization: Streamlit
 
 Deployment: Streamlit Cloud / GitHub
 
+
 📊 Datasets
 
 Sales Data – SKU-wise daily sales
@@ -33,6 +36,7 @@ Inventory Data – Opening & closing stock
 Procurement Data – Supplier and lead times
 
 Logistics Data – Transport modes, delivery times, cost/km
+
 
 🔗 Links
 
